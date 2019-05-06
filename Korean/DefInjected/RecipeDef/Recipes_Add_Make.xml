@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipe Users: Syulipia_Workbench -->
+
+  <Make_Syulipia_PetrifiedWoodAmulet.label>호박 화석 목걸이 제작</Make_Syulipia_PetrifiedWoodAmulet.label>
+  <Make_Syulipia_PetrifiedWoodAmulet.description>호박 화석 목걸이 제작</Make_Syulipia_PetrifiedWoodAmulet.description>
+  <Make_Syulipia_PetrifiedWoodAmulet.jobString>호박 화석 목걸이 제작중</Make_Syulipia_PetrifiedWoodAmulet.jobString>
+
+  <Make_Syulipia_MorionAmulet.label>흑수정 목걸이 제작</Make_Syulipia_MorionAmulet.label>
+  <Make_Syulipia_MorionAmulet.description>흑수정 목걸이 제작</Make_Syulipia_MorionAmulet.description>
+  <Make_Syulipia_MorionAmulet.jobString>흑수정 목걸이 제작중</Make_Syulipia_MorionAmulet.jobString>
+
+  <Make_Syulipia_RhodoniteAmulet.label>로드나이트 목걸이 제작</Make_Syulipia_RhodoniteAmulet.label>
+  <Make_Syulipia_RhodoniteAmulet.description>로드나이트 목걸이 제작</Make_Syulipia_RhodoniteAmulet.description>
+  <Make_Syulipia_RhodoniteAmulet.jobString>로드나이트 목걸이 제작중</Make_Syulipia_RhodoniteAmulet.jobString>
+
+  <Make_Syulipia_DragonAgateAmulet.label>마노 드래곤 목걸이 제작</Make_Syulipia_DragonAgateAmulet.label>
+  <Make_Syulipia_DragonAgateAmulet.description>마노 드래곤 목걸이 제작</Make_Syulipia_DragonAgateAmulet.description>
+  <Make_Syulipia_DragonAgateAmulet.jobString>마노 드래곤 목걸이 제작중</Make_Syulipia_DragonAgateAmulet.jobString>
+
+  <Make_Syulipia_BlueGoldstoneAmulet.label>청금석 목걸이 제작</Make_Syulipia_BlueGoldstoneAmulet.label>
+  <Make_Syulipia_BlueGoldstoneAmulet.description>청금석 목걸이 제작</Make_Syulipia_BlueGoldstoneAmulet.description>
+  <Make_Syulipia_BlueGoldstoneAmulet.jobString>청금석 목걸이 제작중</Make_Syulipia_BlueGoldstoneAmulet.jobString>
+
+  <Make_Syulipia_SunstoneAmulet.label>태양석 목걸이 제작</Make_Syulipia_SunstoneAmulet.label>
+  <Make_Syulipia_SunstoneAmulet.description>태양석 목걸이 제작</Make_Syulipia_SunstoneAmulet.description>
+  <Make_Syulipia_SunstoneAmulet.jobString>태양석 목걸이 제작중</Make_Syulipia_SunstoneAmulet.jobString>
+
+  <Make_Syulipia_MoonstoneAmulet.label>달석 목걸이 제작</Make_Syulipia_MoonstoneAmulet.label>
+  <Make_Syulipia_MoonstoneAmulet.description>달석 목걸이 제작</Make_Syulipia_MoonstoneAmulet.description>
+  <Make_Syulipia_MoonstoneAmulet.jobString>달석 목걸이 제작중</Make_Syulipia_MoonstoneAmulet.jobString>
+
+  <Make_Syulipia_JadeTalisman.label>옥석 호부 제작</Make_Syulipia_JadeTalisman.label>
+  <Make_Syulipia_JadeTalisman.description>옥석 호부 제작</Make_Syulipia_JadeTalisman.description>
+  <Make_Syulipia_JadeTalisman.jobString>옥석 호부 제작중</Make_Syulipia_JadeTalisman.jobString>
+
+  <Make_Syulipia_Jade_GoldTalisman.label>진실의 옥석 호부 제작</Make_Syulipia_Jade_GoldTalisman.label>
+  <Make_Syulipia_Jade_GoldTalisman.description>진실의 옥석 호부 제작</Make_Syulipia_Jade_GoldTalisman.description>
+  <Make_Syulipia_Jade_GoldTalisman.jobString>진실의 옥석 호부 제작중</Make_Syulipia_Jade_GoldTalisman.jobString>
+
+  <Make_Syulipia_MorionTalisman.label>흑수정 호부 제작</Make_Syulipia_MorionTalisman.label>
+  <Make_Syulipia_MorionTalisman.description>흑수정 호부 제작</Make_Syulipia_MorionTalisman.description>
+  <Make_Syulipia_MorionTalisman.jobString>흑수정 호부 제작중</Make_Syulipia_MorionTalisman.jobString>
+
+  <Make_Syulipia_Morion_GoldTalisman.label>진실의 흑수정 호부 제작</Make_Syulipia_Morion_GoldTalisman.label>
+  <Make_Syulipia_Morion_GoldTalisman.description>진실의 흑수정 호부 제작</Make_Syulipia_Morion_GoldTalisman.description>
+  <Make_Syulipia_Morion_GoldTalisman.jobString>진실의 흑수정 호부 제작중</Make_Syulipia_Morion_GoldTalisman.jobString>
+
+  <Make_Syulipia_RhodoniteTalisman.label>로드나이트 호부 제작</Make_Syulipia_RhodoniteTalisman.label>
+  <Make_Syulipia_RhodoniteTalisman.description>로드나이트 호부 제작</Make_Syulipia_RhodoniteTalisman.description>
+  <Make_Syulipia_RhodoniteTalisman.jobString>로드나이트 호부 제작중</Make_Syulipia_RhodoniteTalisman.jobString>
+
+  <Make_Syulipia_Rhodonite_GoldTalisman.label>진실의 로드나이트 호부 제작</Make_Syulipia_Rhodonite_GoldTalisman.label>
+  <Make_Syulipia_Rhodonite_GoldTalisman.description>진실의 로드나이트 호부 제작</Make_Syulipia_Rhodonite_GoldTalisman.description>
+  <Make_Syulipia_Rhodonite_GoldTalisman.jobString>진실의 로드나이트 호부 제작중</Make_Syulipia_Rhodonite_GoldTalisman.jobString>
+
+  <Make_Syulipia_MoonstoneTalisman.label>달석 호부 제작</Make_Syulipia_MoonstoneTalisman.label>
+  <Make_Syulipia_MoonstoneTalisman.description>달석 호부 제작</Make_Syulipia_MoonstoneTalisman.description>
+  <Make_Syulipia_MoonstoneTalisman.jobString>달석 호부 제작중</Make_Syulipia_MoonstoneTalisman.jobString>
+
+  <Make_Syulipia_Moonstone_GoldTalisman.label>진실의 달석 호부 제작</Make_Syulipia_Moonstone_GoldTalisman.label>
+  <Make_Syulipia_Moonstone_GoldTalisman.description>진실의 달석 호부 제작</Make_Syulipia_Moonstone_GoldTalisman.description>
+  <Make_Syulipia_Moonstone_GoldTalisman.jobString>진실의 달석 호부 제작중</Make_Syulipia_Moonstone_GoldTalisman.jobString>
+
+  <Make_Syulipia_BlueGoldstoneTalisman.label>청금석 호부 제작</Make_Syulipia_BlueGoldstoneTalisman.label>
+  <Make_Syulipia_BlueGoldstoneTalisman.description>청금석 제작</Make_Syulipia_BlueGoldstoneTalisman.description>
+  <Make_Syulipia_BlueGoldstoneTalisman.jobString>청금석 호부 제작중</Make_Syulipia_BlueGoldstoneTalisman.jobString>
+
+  <Make_Syulipia_BlueGoldstone_GoldTalisman.label>진실의 청금석 호부 제작</Make_Syulipia_BlueGoldstone_GoldTalisman.label>
+  <Make_Syulipia_BlueGoldstone_GoldTalisman.description>진실의 청금석 호부 제작</Make_Syulipia_BlueGoldstone_GoldTalisman.description>
+  <Make_Syulipia_BlueGoldstone_GoldTalisman.jobString>진실의 청금석 호부 제작중</Make_Syulipia_BlueGoldstone_GoldTalisman.jobString>
+
+</LanguageData>

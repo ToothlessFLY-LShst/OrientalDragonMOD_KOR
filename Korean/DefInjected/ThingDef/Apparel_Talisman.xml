@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- tainted -->
+
+  <Syulipia_JadeTalisman.label>옥석 호부</Syulipia_JadeTalisman.label>
+  <Syulipia_JadeTalisman.description>이 부적은 다른 사람의 매력을 엿볼 수 있도록 도와주는 것 처럼 보입니다.</Syulipia_JadeTalisman.description>
+
+
+  <!-- clean -->
+
+  <Syulipia_Jade_GoldTalisman.label>진실의 옥석 호부</Syulipia_Jade_GoldTalisman.label>
+  <Syulipia_Jade_GoldTalisman.description>이 부적은 다른 사람의 매력을 엿볼 수 있도록 도와주는 것 처럼 보입니다.</Syulipia_Jade_GoldTalisman.description>
+
+
+  <!-- tainted -->
+
+  <Syulipia_MorionTalisman.label>흑수정 호부</Syulipia_MorionTalisman.label>
+  <Syulipia_MorionTalisman.description>이 부적은 착용자의 마음을 안정시켜 작업에 집중 할 수 있게 도와주는 것 처럼 보입니다.</Syulipia_MorionTalisman.description>
+
+
+  <!-- clean -->
+
+  <Syulipia_Morion_GoldTalisman.label>진실의 흑수정 호부</Syulipia_Morion_GoldTalisman.label>
+  <Syulipia_Morion_GoldTalisman.description>이 부적은 착용자의 마음을 안정시켜 작업에 집중 할 수 있게 도와주는 것 처럼 보입니다.</Syulipia_Morion_GoldTalisman.description>
+
+
+  <!-- tainted -->
+
+  <Syulipia_RhodoniteTalisman.label>로드나이트 호부</Syulipia_RhodoniteTalisman.label>
+  <Syulipia_RhodoniteTalisman.description>이 부적은 착용자를 야생/애완동물과의 의사소통을 도와주는 것 처럼 보입니다(그렇게 느껴집니다).</Syulipia_RhodoniteTalisman.description>
+
+
+  <!-- clean -->
+
+  <Syulipia_Rhodonite_GoldTalisman.label>진실의 로드나이트 호부</Syulipia_Rhodonite_GoldTalisman.label>
+  <Syulipia_Rhodonite_GoldTalisman.description>이 부적은 착용자를 야생/애완동물과의 의사소통을 도와주는 것 처럼 보입니다(그렇게 느껴집니다).</Syulipia_Rhodonite_GoldTalisman.description>
+
+
+  <!-- tainted -->
+
+  <Syulipia_MoonstoneTalisman.label>달석 호부</Syulipia_MoonstoneTalisman.label>
+  <Syulipia_MoonstoneTalisman.description>이 부적은 착용자를 빠르게 움직일 수 있도록 도와주는 것 처럼 보입니다.</Syulipia_MoonstoneTalisman.description>
+
+
+  <!-- clean -->
+
+  <Syulipia_Moonstone_GoldTalisman.label>진실의 달석 호부</Syulipia_Moonstone_GoldTalisman.label>
+  <Syulipia_Moonstone_GoldTalisman.description>이 부적은 착용자를 빠르게 움직일 수 있도록 도와주는 것 처럼 보입니다.</Syulipia_Moonstone_GoldTalisman.description>
+
+
+  <!-- tainted -->
+
+  <Syulipia_BlueGoldstoneTalisman.label>청금석 호부</Syulipia_BlueGoldstoneTalisman.label>
+  <Syulipia_BlueGoldstoneTalisman.description>이 부적은 모든 작업을 빠르게 마칠 수 있도록 도와주는 것 처럼 보입니다.</Syulipia_BlueGoldstoneTalisman.description>
+
+
+  <!-- clean -->
+
+  <Syulipia_BlueGoldstone_GoldTalisman.label>진실의 청금석 호부</Syulipia_BlueGoldstone_GoldTalisman.label>
+  <Syulipia_BlueGoldstone_GoldTalisman.description>이 부적은 모든 작업을 빠르게 마칠 수 있도록 도와주는 것 처럼 보입니다.</Syulipia_BlueGoldstone_GoldTalisman.description>
+
+</LanguageData>

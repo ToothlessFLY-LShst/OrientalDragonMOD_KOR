@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sunstone (Make_Syulipia_SunStone) -->
+
+  <Make_Syulipia_SunStone.label>태양석 제작</Make_Syulipia_SunStone.label>
+  <Make_Syulipia_SunStone.description>돌을 깍아 태양석 보석을 만듭니다.</Make_Syulipia_SunStone.description>
+  <Make_Syulipia_SunStone.jobString>돌을 보석으로 만드는 중</Make_Syulipia_SunStone.jobString>
+
+
+  <!-- Moonstone (Make_Syulipia_Moonstone) -->
+
+  <Make_Syulipia_Moonstone.label>달석 제작</Make_Syulipia_Moonstone.label>
+  <Make_Syulipia_Moonstone.description>돌을 깍아  달석 보석을 만듭니다.</Make_Syulipia_Moonstone.description>
+  <Make_Syulipia_Moonstone.jobString>돌을 보석으로 만드는 중</Make_Syulipia_Moonstone.jobString>
+
+
+  <!-- Blue Goldstone (Make_Syulipia_BlueGoldstone) -->
+
+  <Make_Syulipia_BlueGoldstone.label>청금석 제작</Make_Syulipia_BlueGoldstone.label>
+  <Make_Syulipia_BlueGoldstone.description>돌을 깍아  청금석 보석을 만듭니다.</Make_Syulipia_BlueGoldstone.description>
+  <Make_Syulipia_BlueGoldstone.jobString>돌을 보석으로 만드는 중</Make_Syulipia_BlueGoldstone.jobString>
+
+</LanguageData>

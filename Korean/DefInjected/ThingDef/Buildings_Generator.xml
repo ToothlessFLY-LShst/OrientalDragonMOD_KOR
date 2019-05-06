@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Syulipia_Battery.label>syulipian 배터리</Syulipia_Battery.label>
+  <Syulipia_Battery.description>더 많은 전력을 저장할 수 있는 대용량 배터리입니다 (총 3000W).</Syulipia_Battery.description>
+  <Blueprint_Syulipia_Battery.label>syulipian 배터리 (청사진)</Blueprint_Syulipia_Battery.label>
+  <Blueprint_Install_Syulipia_Battery.label>syulipian 배터리 (청사진)</Blueprint_Install_Syulipia_Battery.label>
+  <Frame_Syulipia_Battery.label>syulipian 배터리 (건설중)</Frame_Syulipia_Battery.label>
+  <Frame_Syulipia_Battery.description>더 많은 전력을 저장할 수 있는 대용량 배터리입니다 (총 3000W).</Frame_Syulipia_Battery.description>
+
+  <Syulipia_Generator_500v.label>syulipian 발전기</Syulipia_Generator_500v.label>
+  <Syulipia_Generator_500v.description>이 발전기는 syulipia로 부터 오는 용의 마력을 전기로 변환시켜줍니다.</Syulipia_Generator_500v.description>
+  <Blueprint_Syulipia_Generator_500v.label>syulipian 발전기 (청사진)</Blueprint_Syulipia_Generator_500v.label>
+  <Blueprint_Install_Syulipia_Generator_500v.label>syulipian 발전기 (청사진)</Blueprint_Install_Syulipia_Generator_500v.label>
+  <Frame_Syulipia_Generator_500v.label>syulipian 발전기 (건설중)</Frame_Syulipia_Generator_500v.label>
+  <Frame_Syulipia_Generator_500v.description>이 발전기는 syulipia로 부터 오는 용의 마력을 전기로 변환시켜줍니다.</Frame_Syulipia_Generator_500v.description>
+
+  <Syulipia_Generator_1000v.label>syulipian 발전기 Lv2</Syulipia_Generator_1000v.label>
+  <Syulipia_Generator_1000v.description>이 발전기는 syulipia로 부터 오는 용의 마력을 전기로 변환시켜줍니다.</Syulipia_Generator_1000v.description>
+  <Blueprint_Syulipia_Generator_1000v.label>syulipian 발전기 Lv2 (청사진)</Blueprint_Syulipia_Generator_1000v.label>
+  <Blueprint_Install_Syulipia_Generator_1000v.label>syulipian 발전기 Lv2 (청사진)</Blueprint_Install_Syulipia_Generator_1000v.label>
+  <Frame_Syulipia_Generator_1000v.label>syulipian 발전기 Lv2 (건설중)</Frame_Syulipia_Generator_1000v.label>
+  <Frame_Syulipia_Generator_1000v.description>이 발전기는 syulipia로 부터 오는 용의 마력을 전기로 변환시켜줍니다.</Frame_Syulipia_Generator_1000v.description>
+
+  <Syulipia_Generator_1500v.label>syulipian 발전기 Lv3</Syulipia_Generator_1500v.label>
+  <Syulipia_Generator_1500v.description>이 발전기는 syulipia로 부터 오는 용의 마력을 전기로 변환시켜줍니다.</Syulipia_Generator_1500v.description>
+  <Blueprint_Syulipia_Generator_1500v.label>syulipian 발전기 Lv3 (청사진)</Blueprint_Syulipia_Generator_1500v.label>
+  <Blueprint_Install_Syulipia_Generator_1500v.label>syulipian 발전기 Lv3 (청사진)</Blueprint_Install_Syulipia_Generator_1500v.label>
+  <Frame_Syulipia_Generator_1500v.label>syulipian 발전기 Lv3 (건설중)</Frame_Syulipia_Generator_1500v.label>
+  <Frame_Syulipia_Generator_1500v.description>이 발전기는 syulipia로 부터 오는 용의 마력을 전기로 변환시켜줍니다.</Frame_Syulipia_Generator_1500v.description>
+
+  <Syulipia_Generator_2000v.label>syulipian 발전기 Lv4</Syulipia_Generator_2000v.label>
+  <Syulipia_Generator_2000v.description>이 발전기는 syulipia로 부터 오는 용의 마력을 전기로 변환시켜줍니다.</Syulipia_Generator_2000v.description>
+  <Blueprint_Syulipia_Generator_2000v.label>syulipian 발전기 Lv4 (청사진)</Blueprint_Syulipia_Generator_2000v.label>
+  <Blueprint_Install_Syulipia_Generator_2000v.label>syulipian 발전기 Lv4 (청사진)</Blueprint_Install_Syulipia_Generator_2000v.label>
+  <Frame_Syulipia_Generator_2000v.label>syulipian 발전기 Lv4 (건설중)</Frame_Syulipia_Generator_2000v.label>
+  <Frame_Syulipia_Generator_2000v.description>이 발전기는 syulipia로 부터 오는 용의 마력을 전기로 변환시켜줍니다.</Frame_Syulipia_Generator_2000v.description>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Almost Slambo -->
+
+  <Syulipia_AgateDragon.label>마노 드래곤</Syulipia_AgateDragon.label>
+  <Syulipia_AgateDragon.description>이세계 'Syulipia'에 살고있는 드래곤.</Syulipia_AgateDragon.description>
+  <Syulipia_AgateDragon.tools.0.label>뿔</Syulipia_AgateDragon.tools.0.label>
+  <Syulipia_AgateDragon.tools.1.label>이빨</Syulipia_AgateDragon.tools.1.label>
+  <Syulipia_AgateDragon.tools.2.label>왼쪽 다리</Syulipia_AgateDragon.tools.2.label>
+  <Syulipia_AgateDragon.tools.3.label>오른쪽 다리</Syulipia_AgateDragon.tools.3.label>
+  <Syulipia_AgateDragon.tools.4.label>머리</Syulipia_AgateDragon.tools.4.label>
+  <!-- Leather Amount: 0 -->
+  <Meat_Syulipia_AgateDragon.label>마노 드래곤 고기</Meat_Syulipia_AgateDragon.label>
+  <Meat_Syulipia_AgateDragon.description>마노 드래곤 고기.</Meat_Syulipia_AgateDragon.description>
+  <Corpse_Syulipia_AgateDragon.label>마노 드래곤 시체</Corpse_Syulipia_AgateDragon.label>
+  <Corpse_Syulipia_AgateDragon.description>마노 드래곤 시체</Corpse_Syulipia_AgateDragon.description>
+
+</LanguageData>

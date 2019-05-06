@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Resource morion rocks (Syulipia_Morion) -->
+
+  <Syulipia_Mineable_Morion.label>흑수정 광물</Syulipia_Mineable_Morion.label>
+  <Syulipia_Mineable_Morion.description>흑수정이 뒤섞인 광물</Syulipia_Mineable_Morion.description>
+
+
+  <!-- Resource petrified wood rocks (Syulipia_PetrifiedWood) -->
+
+  <Syulipia_Mineable_PetrifiedWood.label>호박 화석 광물</Syulipia_Mineable_PetrifiedWood.label>
+  <Syulipia_Mineable_PetrifiedWood.description>호박 화석이 뒤섞인 광물.</Syulipia_Mineable_PetrifiedWood.description>
+
+
+  <!-- Resource rhodonite rocks (Syulipia_Rhodonite) -->
+
+  <Syulipia_Mineable_Rhodonite.label>로드나이트 광물</Syulipia_Mineable_Rhodonite.label>
+  <Syulipia_Mineable_Rhodonite.description>로드나이트가 뒤섞인 광물.</Syulipia_Mineable_Rhodonite.description>
+
+</LanguageData>

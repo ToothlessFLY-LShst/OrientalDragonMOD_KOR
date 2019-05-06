@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Red Agate Dragon（Syulipia_AgateDragon_Red） -->
+
+  <Syulipia_AgateDragon_Red.label>레드 마노 드래곤</Syulipia_AgateDragon_Red.label>
+  <Syulipia_AgateDragon_Red.description>이세계 'Syulipia'에 살고있는 레드 드래곤.</Syulipia_AgateDragon_Red.description>
+  <Syulipia_AgateDragon_Red.tools.0.label>뿔</Syulipia_AgateDragon_Red.tools.0.label>
+  <Syulipia_AgateDragon_Red.tools.1.label>이빨</Syulipia_AgateDragon_Red.tools.1.label>
+  <Syulipia_AgateDragon_Red.tools.2.label>왼쪽 다리</Syulipia_AgateDragon_Red.tools.2.label>
+  <Syulipia_AgateDragon_Red.tools.3.label>오른쪽 다리</Syulipia_AgateDragon_Red.tools.3.label>
+  <Syulipia_AgateDragon_Red.tools.4.label>머리</Syulipia_AgateDragon_Red.tools.4.label>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Syulipia_AgateDragon -->
+  <Corpse_Syulipia_AgateDragon_Red.label>레드 마노 드래곤 시체</Corpse_Syulipia_AgateDragon_Red.label>
+  <Corpse_Syulipia_AgateDragon_Red.description>레드 마노 드래곤 시체</Corpse_Syulipia_AgateDragon_Red.description>
+
+</LanguageData>

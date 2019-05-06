@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dragon Agate (Syulipia_DragonAgate) -->
+
+  <Syulipia_DragonAgate.label>마노 드래곤</Syulipia_DragonAgate.label>
+  <Syulipia_DragonAgate.description>마노 드래곤의 비늘에서 잘려나온 돌.</Syulipia_DragonAgate.description>
+  <Syulipia_DragonAgate.stuffProps.stuffAdjective>마노 드래곤</Syulipia_DragonAgate.stuffProps.stuffAdjective>
+
+
+  <!-- Blue Dragon Agate (Syulipia_DragonAgate_Blue) -->
+
+  <Syulipia_DragonAgate_Blue.label>블루 마노 드래곤</Syulipia_DragonAgate_Blue.label>
+  <Syulipia_DragonAgate_Blue.description>블루 마노 드래곤의 비늘에서 잘려나온 돌.</Syulipia_DragonAgate_Blue.description>
+  <Syulipia_DragonAgate_Blue.stuffProps.stuffAdjective>블루 마노 드래곤</Syulipia_DragonAgate_Blue.stuffProps.stuffAdjective>
+
+
+  <!-- Red Dragon Agate (Syulipia_DragonAgate_Red) -->
+
+  <Syulipia_DragonAgate_Red.label>레드 마노 드래곤</Syulipia_DragonAgate_Red.label>
+  <Syulipia_DragonAgate_Red.description>레드 마노 드래곤의 비늘에서 잘려나온 돌.</Syulipia_DragonAgate_Red.description>
+  <Syulipia_DragonAgate_Red.stuffProps.stuffAdjective>레드 마노 드래곤</Syulipia_DragonAgate_Red.stuffProps.stuffAdjective>
+
+
+  <!-- Rhodonite (Syulipia_Rhodonite) -->
+
+  <Syulipia_Rhodonite.label>로드나이트</Syulipia_Rhodonite.label>
+  <Syulipia_Rhodonite.description>진실한 사랑으로 인도하는 돌.</Syulipia_Rhodonite.description>
+  <Syulipia_Rhodonite.stuffProps.stuffAdjective>로드나이트</Syulipia_Rhodonite.stuffProps.stuffAdjective>
+
+
+  <!-- Petrified Wood (Syulipia_PetrifiedWood) -->
+
+  <Syulipia_PetrifiedWood.label>호박 화석</Syulipia_PetrifiedWood.label>
+  <Syulipia_PetrifiedWood.description>수 많은 세월을 거쳐 나무의 송진이 화석이 된 호박.</Syulipia_PetrifiedWood.description>
+  <Syulipia_PetrifiedWood.stuffProps.stuffAdjective>호박 화석</Syulipia_PetrifiedWood.stuffProps.stuffAdjective>
+
+
+  <!-- Morion (Syulipia_Morion) -->
+
+  <Syulipia_Morion.label>흑수정</Syulipia_Morion.label>
+  <Syulipia_Morion.description>빛을 흡수하는것 처럼 보이는 돌.</Syulipia_Morion.description>
+  <Syulipia_Morion.stuffProps.stuffAdjective>흑수정</Syulipia_Morion.stuffProps.stuffAdjective>
+
+
+  <!-- Sunstone (Syulipia_SunStone) -->
+
+  <Syulipia_Sunstone.label>태양석</Syulipia_Sunstone.label>
+  <Syulipia_Sunstone.description>태양의 힘을 지니고 있는 돌.</Syulipia_Sunstone.description>
+  <Syulipia_Sunstone.stuffProps.stuffAdjective>태양석</Syulipia_Sunstone.stuffProps.stuffAdjective>
+
+
+  <!-- Moonstone (Syulipia_Moonstone) -->
+
+  <Syulipia_Moonstone.label>달석</Syulipia_Moonstone.label>
+  <Syulipia_Moonstone.description>달의 힘을 지니고 있는 돌.</Syulipia_Moonstone.description>
+  <Syulipia_Moonstone.stuffProps.stuffAdjective>달석</Syulipia_Moonstone.stuffProps.stuffAdjective>
+
+
+  <!-- Blue Goldstone (Syulipia_BlueGoldstone) -->
+
+  <Syulipia_BlueGoldstone.label>청금석</Syulipia_BlueGoldstone.label>
+  <Syulipia_BlueGoldstone.description>고대의 연금술사가 의도적으로 만든 돌.\n별이 빛나는 하늘이 돌 안에 있는것 처럼 보입니다.</Syulipia_BlueGoldstone.description>
+  <Syulipia_BlueGoldstone.stuffProps.stuffAdjective>청금석</Syulipia_BlueGoldstone.stuffProps.stuffAdjective>
+
+
+</LanguageData>

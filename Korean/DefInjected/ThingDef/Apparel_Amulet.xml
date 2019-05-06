@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Petrified Wood -->
+
+  <Syulipia_PetrifiedWoodAmulet.label>호박 화석 목걸이</Syulipia_PetrifiedWoodAmulet.label>
+  <Syulipia_PetrifiedWoodAmulet.description>호박 화석으로 만든 목걸이. 착용자를 독과 정신이상으로부터 보호합니다.</Syulipia_PetrifiedWoodAmulet.description>
+
+
+  <!-- Morion -->
+
+  <Syulipia_MorionAmulet.label>흑수정 목걸이</Syulipia_MorionAmulet.label>
+  <Syulipia_MorionAmulet.description>흑수정으로 만든 목걸이. 착용자를 독과 감염으로 부터 보호합니다.</Syulipia_MorionAmulet.description>
+
+
+  <!-- Rhodonite -->
+
+  <Syulipia_RhodoniteAmulet.label>로드나이트 목걸이</Syulipia_RhodoniteAmulet.label>
+  <Syulipia_RhodoniteAmulet.description>로드나이트로 만든 목걸이. 착용자를 정신이상으로 부터 보호합니다.</Syulipia_RhodoniteAmulet.description>
+
+
+  <!-- Dragon Agate -->
+
+  <Syulipia_DragonAgateAmulet.label>마노 드래곤 목걸이</Syulipia_DragonAgateAmulet.label>
+  <Syulipia_DragonAgateAmulet.description>마노 드래곤으로 만든 목걸이. 착용자를 다양한 공격으로 부터 보호합니다.</Syulipia_DragonAgateAmulet.description>
+
+
+  <!-- Bluegold Stone -->
+
+  <Syulipia_BlueGoldstoneAmulet.label>청금석 목걸이</Syulipia_BlueGoldstoneAmulet.label>
+  <Syulipia_BlueGoldstoneAmulet.description>청금석으로 만든 목걸이. 착용자를 수많은 공격으로 부터 보호합니다.</Syulipia_BlueGoldstoneAmulet.description>
+
+
+  <!-- Sunstone -->
+
+  <Syulipia_SunstoneAmulet.label>태양석 목걸이</Syulipia_SunstoneAmulet.label>
+  <Syulipia_SunstoneAmulet.description>태양석으로 만든 목걸이. 착용자를 더위로 부터 보호합니다.</Syulipia_SunstoneAmulet.description>
+
+
+  <!-- Moonstone -->
+
+  <Syulipia_MoonstoneAmulet.label>달석 목걸이</Syulipia_MoonstoneAmulet.label>
+  <Syulipia_MoonstoneAmulet.description>달석으로 만든 목걸이. 착용자를 추위로 부터 보호합니다.</Syulipia_MoonstoneAmulet.description>
+
+</LanguageData>

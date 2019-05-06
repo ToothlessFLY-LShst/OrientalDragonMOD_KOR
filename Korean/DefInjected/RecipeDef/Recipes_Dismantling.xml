@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_Syulipia_Dismantling.label>syulipian 장비 분해</Make_Syulipia_Dismantling.label>
+  <Make_Syulipia_Dismantling.description>별빛으로 syulipian 장비를 분해합니다 ( x10 ).</Make_Syulipia_Dismantling.description>
+  <Make_Syulipia_Dismantling.jobString>분해중</Make_Syulipia_Dismantling.jobString>
+
+</LanguageData>
